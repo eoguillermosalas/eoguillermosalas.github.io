@@ -1,0 +1,3 @@
+La foto de memo no aparece en un circulo sino en un ovalo.
+No puedo modificar el tamaño del texto ni moverlo a alguno lado.
+Crees que haya una forma para que cuando mandes el formulario no te redireccione a la pagina de Formspree.
